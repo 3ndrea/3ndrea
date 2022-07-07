@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @3ndrea
+- 👀 I’m interested in learning how to code! I'm new to coding in general and I'm taking the online CS50 course.
+- 🌱 I’m currently learning how to code in C and in Python. After these two languages, I want to move on to Java and C++ :)
+- 💞️ I’m looking to collaborate on projects for competitions and other things I want to do.
+- 📫 How to reach me: my Instagram is @3ndreaa_ and email me here: andreayang64@gmail.com
